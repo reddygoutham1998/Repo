@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is CA4E-98FE
+
+ Directory of C:\Users\Goutham\Desktop\GitPractices
+
+05-07-2025  14:06    <DIR>          .
+05-07-2025  14:04    <DIR>          ..
+05-07-2025  14:06                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  209,659,199,488 bytes free
